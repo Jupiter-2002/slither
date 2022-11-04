@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-# "setup slither is a solidity static analysis framework written in Python 2"
+# "setup slither is a solidity static analysis framework written in Python 3"
 setup(
     name="slither-analyzer",
     description="Slither is a Solidity static analysis framework written in Python 3.",
